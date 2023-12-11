@@ -111,8 +111,11 @@ However, the gross margin reveals a different story. The gross margin is increas
 ### 5.1 Overall Insights
 
 **Restrictions**: It's hard to conclude from monthly rent and heating fee, because some stores were moved or closed, and some other stores were newly opened. But fortunately, net profit has a highly similar trend to gross profit, which is not surprising.
+
 **Summary of Findings**: Our analysis reveals significant trends in sales and gross profit, influenced by factors such as the COVID-19 pandemic, demographic shifts, and the impact of promotional activities. 
+
 **Future Outlook**: Based on our findings, the company may face certain challenges and opportunities in the future, reflecting changing market dynamics and evolving customer behaviors. Potential strategic adjustments might be needed in sales strategies, cost management, and product portfolio optimization.
+
 **Recommendations**: Suggestions are made for strategic approaches, focusing on sales enhancement, cost efficiency, and adapting the product mix to align with current market trends.
 
 #### 5.2 Limitations and Further Research
@@ -123,7 +126,9 @@ However, the gross margin reveals a different story. The gross margin is increas
 ## 6. Acknowledgments
 
 **Team Members and Colleagues**: Special thanks to colleagues who assisted in data collection, processing, and analysis.
+
 **Management**: Appreciation is extended to the company's management for their support and guidance.
+
 **Additional Support**: Gratitude is also due to others who provided technical resources or expertise.
 
 
